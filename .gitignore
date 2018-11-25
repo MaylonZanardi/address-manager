@@ -1,0 +1,15 @@
+**/credentials.*
+**/target/
+/s4hana_pipeline
+**/*.log
+**/*.trc
+**/.settings/
+**/.project
+**/.classpath
+**/.idea
+**/*.iml
+**/.vscode
+**/node_modules
+**/.DS_Store
+docs/.sass-cache/
+docs/_site/
